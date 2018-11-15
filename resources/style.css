@@ -3,19 +3,40 @@
 * {
   font-family: Verdana, sans-serif;
   background-color: black;
-}
-
-.mainHeader {
   text-align: center;
 }
 
+/* Main Heading */
 .mainHeader h1 {
   color: white;
   font-size: 50px;
 
 }
 
-.mainHeader a {
+ a {
   color: Aquamarine;
   font-size: 16px;
+}
+
+/* Content Area Guide */
+.contentAreaGuide h2 {
+  font-weight: 300;
+  color: white;
+  font-size: 42px;
+}
+
+.contentAreaGuide p {
+  color: gray;
+  font-size: 21px;
+}
+
+.contentAreaGuide img {
+  margin: auto auto 30px auto;
+}
+
+/* Footer Area */
+
+footer p {
+  color: gray;
+  text-align: right;
 }
