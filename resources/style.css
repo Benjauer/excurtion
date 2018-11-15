@@ -1,0 +1,21 @@
+
+/* General Selector */
+* {
+  font-family: Verdana, sans-serif;
+  background-color: black;
+}
+
+.mainHeader {
+  text-align: center;
+}
+
+.mainHeader h1 {
+  color: white;
+  font-size: 50px;
+
+}
+
+.mainHeader a {
+  color: Aquamarine;
+  font-size: 16px;
+}
